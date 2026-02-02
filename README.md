@@ -82,11 +82,11 @@ Intelligent resume analysis tool with ATS-compatible scoring and actionable feed
 
 <div align="center">
   
-![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=radical)
+![Aditi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aditikarn-analyst&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aditikarn-analyst&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aditikarn-analyst&theme=radical)
 
 </div>
 
