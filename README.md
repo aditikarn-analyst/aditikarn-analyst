@@ -128,6 +128,6 @@ Feel free to reach out for collaborations, project discussions, or just a tech c
   
 ### ⭐ "Technology is best when it brings people together." ⭐
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=aditikarn-analyst&color=blueviolet&style=flat-square)
 
 </div>
